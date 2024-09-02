@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+    <meta name="viewport" content="width=device-width">
+    <link rel="shortcut icon" type="image/png" href="/resources/img/icons/favicon-android-chrome-192x192.png"/>
+    <title>Anson Pinhero</title>
+
+{% seo %}
+
+    
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <a href="{{ site.github.url }}"> <h1 style="display:-block; font-size:36px;"> Anson Pinhero </h1> </a>
+        anson |AT| ansonpinhero |DOT| com
+        <p class="view"> 
+          <ul>
+            <li><a href="https://scholar.google.com/citations?user=v8l_TBMAAAAJ&hl=en">Google Scholar</a></li>
+            <li><a href="{{ site.github.owner_url }}">GitHub</a></li>
+            <li><a href="https://www.linkedin.com/in/ansonpinhero">Linkedin</a></li>
+          </ul>
+        </p>
+  
+        <!-- <p>{{ site.description | default: site.github.project_tagline }}</p> -->
+        <a href="{{ site.github.url }}">
+          <img src="/resources/img/Anson.jpeg" alt="Photo of Anson Pinhero" width="200" style="display:block; border-radius: 50%;">
+        </a>
+        <br>
+       
+        
+        
+        
+        <h3> Navigate: </h3>
+        <div class="row-of-links">
+          <div> <a href="/md/research.html"> <button type="button"> Research </button> </a>  </div>
+          <div> <a href="https://blog.ansonpinhero.com"> <button type="button"> Blog </button>  </a> </div>
+        </div>
+        
+        <br>
+        <hr>
+
+
+      </header>
+
+      
+
+
+      <section>
+
+      {{ content }}
+
+      </section>
+      
+    </div>
+
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+
+  </body>
+</html>
