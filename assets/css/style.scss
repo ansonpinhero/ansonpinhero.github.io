@@ -1,46 +1,6 @@
 ---
 ---
 
-// @import "{{ site.theme }}";
-
-
-/* Curtis code */
-
-/* desktop screen */
-// section {
-//   width:700px;  
-// }
-
-// p, li, span {
-//   font-size: 16px;
-// }
-
-// .wrapper {
-//   width:1060px;
-// }
-
-// @media print, screen and (max-width: 960px) {
-  
-//   section {
-//     width:500px;  
-//   }
-  
-//   p, li, span {
-//     font-size: 22px;
-//   }
-  
-//   .wrapper {
-//     width:860px;
-//   }
-
-//   header {
-//     padding-right:320px;
-//   }
-  
-// }
-
-
-
 @import "fonts";
 @import "rouge-github";
 
@@ -376,62 +336,6 @@ a.github {
 }
 
 
- /*
-header {
-  width:300px;
-  float:left;
-  position:fixed;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-header ul {
-  list-style:none;
-  height:40px;
-  padding:0;
-  background: #f4f4f4;
-  border-radius:5px;
-  border:1px solid #e0e0e0;
-  width:405px;
-}
-
-header li {
-  width:89px;
-  float:left;
-  border-right:1px solid #e0e0e0;
-  height:60px;
-}
-
-header ul a {
-  line-height:1;
-  font-size:11px;
-  color:#999;
-  display:block;
-  text-align:center;
-  padding-top:6px;
-  height:34px;
-}
-
-header ul li + li + li {
-  border-right:none;
-  width:144px ;
-}
-
-section {
-  width:750px;
-  float:right;
-  padding-bottom:50px;
-}
-
-footer {
-  width:300px;
-  float:left;
-  position:fixed;
-  bottom:50px;
-  -webkit-font-smoothing:subpixel-antialiased;
-}
-
-*/
-
 button {
   -moz-box-shadow: 0px 0px 0px 2px #9fb4f2;
   -webkit-box-shadow: 0px 0px 0px 2px #9fb4f2;
@@ -471,3 +375,4 @@ button:active {
   position:relative;
   top:1px;
 }
+
