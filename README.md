@@ -1,12 +1,12 @@
-# Anson Pinhero
+## About
 
-> Software Engineer  | Photographer  
+---
 
 Architecting robust, scalable, and secure systems for high-compliance domains.
 
 ---
 
-## About Me
+
 
 Hi, I'm Anson. I'm a Full Stack Software Engineer with **nearly 5 years of experience** specializing in solution design and end-to-end application development.
 
