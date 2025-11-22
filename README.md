@@ -8,7 +8,7 @@ Architecting robust, scalable, and secure systems
 
 
 
-Hi, I'm Anson. I'm a Full Stack Software Engineer with ** 5 years of experience** specializing in solution design and end-to-end application development.
+Hi, I'm Anson. I'm a Full Stack Software Engineer with **5 years of experience** specializing in solution design and end-to-end application development.
 
 My expertise lies in architecting and building scalable systems, particularly for complex, high-compliance domains like healthcare. I have a deep experience in **modern backend technologies** (like ASP.NET Core and Spring Boot), **cloud services** (both Microsoft Azure and AWS), Machine Learning and Deep learning algorithms.
 
