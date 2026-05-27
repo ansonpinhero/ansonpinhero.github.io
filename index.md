@@ -2,7 +2,7 @@
 
 ---
 
-Architecting robust, scalable, and secure systems for high-compliance domains.
+Architecting robust, scalable, and secure systems.
 
 ---
 
@@ -12,19 +12,18 @@ My expertise lies in architecting and building scalable systems, particularly fo
 
 I hold a **Bachelor of Technology in Computer Science & Engineering** from **APJ Abdul Kalam Technological University**. I'm passionate about building high-impact products that make the world a better place.
 
+I have published work in the areas of malware detection. See my [Research page](/pages/research.html) or [Google Scholar profile](https://scholar.google.com/citations?user=v8l_TBMAAAAJ&hl=en) for full details.
+
 Beyond the code, I'm an avid photographer. I see both engineering and photography as forms of storytelling — one builds a narrative with code, the other with light. Both require finding order in complexity.
 
 ---
 
-## Skills & Technologies
+## What I'm Working On
 
-**Backend:** ASP.NET Core (C#), Spring Boot (Java), REST APIs, Microservices  
-**Cloud:** Microsoft Azure, Amazon Web Services (AWS)  
-**AI / ML:** Generative AI, LLMs, Retrieval-Augmented Generation (RAG), Deep Learning  
-**Domains:** Healthcare (HIPAA compliance), High-compliance systems  
+I'm deeply interested in **AI Safety and Secure AI Systems** — making this rapidly advancing technology safer, more trustworthy, and aligned with human values. From adversarial robustness and model security to the broader challenge of ensuring AI remains beneficial to humanity, I believe building safer AI is one of the most important problems of our time.
 
 ---
 
-## Research
+## Get in Touch
 
-I have published work in the areas of malware detection and Android security. See my [Research page](/pages/research.html) or [Google Scholar profile](https://scholar.google.com/citations?user=v8l_TBMAAAAJ&hl=en) for full details.
+Feel free to reach out at **anson [at] ansonpinhero [dot] com** or connect with me on [LinkedIn](https://www.linkedin.com/in/ansonpinhero).
